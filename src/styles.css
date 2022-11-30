@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+  color:white;
+  font-weight: bold;
+}
+.title{
+  text-align:center;
+  vertical-align:bottom;
+  background-color: lightseagreen;
+  height: 40px;
+  padding-top: 5px;
+}
